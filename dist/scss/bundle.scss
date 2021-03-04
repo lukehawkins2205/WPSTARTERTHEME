@@ -1,0 +1,27 @@
+@import './components/slider.scss';
+
+@import './components/navigation.scss';
+
+@import './components/header//header-master';
+
+@import './layout/layout';
+
+
+
+
+
+
+
+
+
+
+
+$colour: grey;
+body {
+  background-color: $colour;
+  box-sizing: border-box;
+}
+
+*{
+  box-sizing: border-box;
+}

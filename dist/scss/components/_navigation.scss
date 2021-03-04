@@ -1,0 +1,14 @@
+.main-navigation{
+    background-color: green;
+    ul{
+        float: right;
+        position: relative;
+
+        li{
+            float: left;
+            margin: 0 40px 0 0;
+            position: relative;
+            line-height: 1.2;
+        }
+    }
+}
